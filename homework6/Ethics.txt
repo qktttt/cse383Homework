@@ -1,0 +1,63 @@
+Ethics
+	Govern the social infrastructure that udnerlies everything we do.
+	An objective framework that can be used to analyze the situations
+
+	An action must have a reason.
+
+	Generalizability: An action is ehical onlu if I can rationally believe that my reasons for the action are conssitent with the assumption that everyone who has the same reasons will perform the action.
+
+	-- if an action is ungeneralizable there is no coherent rational behind it so it is merely a behavior, not an action.
+
+	Utility:
+	Utility is an intrinsically valuable state of affairs
+		Everyone utility counts equally
+		An action is ehical choice if it results more utility for everyone.
+		It is possible to calculate the expected utility of actions and then choose the 	best one.
+
+	Utilitarian Principle: 没有替代选择 目前最好的。
+
+	Deontic Utilitarianism: 
+		一个行为被判定为到的或者是不道德 基于当事人是否履行了义务
+	Consequential Utilitarianism:
+		一个行为被判定为到的或者是不道德 基于当事人的行为所造成的的结果，并非是当事人的想法
+
+	Causing versus Allowing: 
+		example:Suppose you hear a scream and spot a young child who is clinging to the side of a deep well, about to fall in. Ignoring the child has the same outcome as throwing the child in the well.
+
+	Utilitarianism and Fairness: An unfair situation doesn't justify an unethical act.
+		Example:  Suppose you come across an injured hiker on the trail who cannot survive without assistance.  Even if others ignore the hiker it is still unethical for you to ignore her.
+		Unless you could reasonably conclude that you would put yourself in equal harm by helping.
+
+	Average versus Total Utility: In some situations it is more rational to maximize the average utility rather than the
+	total
+
+	Present versus Future Utility: It is rational to consider utility that will eventually result from an action in addition to the immediate utility.
+
+	Trolley problem: it is a moral dilemma proposed by Philippa Foot in 1967. 
+	Two options: kill one person to save other five, or, kill other five to save the on person.
+
+	When the self-driving cat have problem and cannot avoid to harm people, they are programmed to take desicion and action. And It is not only program the car with traffic rules, they also need to know what should they do if situation happens.
+
+	Moral machine expands the trolley problem to different scenarios.
+
+	The professor propose a equation that: Total Utility = Sigma(All individual): Individual Utility * Panelty on the Individual for violencing rule
+
+Joe Bazeley presentation:
+	Lightbeam:
+	Ghostery:
+
+
+	Exif metadata:
+
+	Grading changing scandal from 2013: https://miamistudent.net/grade-changing-scandal-results-in-charges/
+	Leak of social security numbers:
+
+Search engines:
+
+
+
+
+
+
+
+

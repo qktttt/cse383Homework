@@ -12,17 +12,17 @@
 </head>
 <body>
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-		<div class="container-fluid">
+		<div class="container-fluid collapse">
 			<a class="navbar-brand" href="index.html">Navbar</a>
-			<ul class="navbar-nav  navbar-right">
-				<li class="nav-item">
+			<ul class="navbar-nav  navbar-right ">
+				<li class="nav-item ">
 					<a class="nav-link" href="index.html">Home</a>
 				</li>
 				<li class="nav-item ">
 					<a class="nav-link" href="about.html">About</a>
 				</li>
-				<li class="nav-item dropdown active">
-					<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+				<li class="nav-item dropdown ">
+					<a class="nav-link dropdown-toggle active" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 						Other<span class="sr-only">(current)</span>
 					</a>
 					<div class="dropdown-menu" aria-labelledby="navbarDropdown">
@@ -33,7 +33,7 @@
 			</ul>
 		</div>
 	</nav>
-	<h1>My Favorite Places</h1>
+	<h1>My favorite places</h1>
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 	  <ol class="carousel-indicators">
 	    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -42,18 +42,33 @@
 	    <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
 	  </ol>
 	  <div class="carousel-inner">
-	    <div class="carousel-item active" style="background:url('images/Beijing.jpg') no-repeat;width:1000px;height:700px">
-	      <h3>Beijing</h3>
-			<p>The city I live in.</p>
+	    <div class="carousel-item active">
+	      <img height="689" width="1000" class="d-block w-100" src="images/Beijing.jpg" alt="First slide">
+			<div class="carousel-caption d-none d-md-block">
+				<h5>Beijing</h5>
+				<p>The plae I live in</p>
+			</div>
 	    </div>
 	    <div class="carousel-item">
-	      <img height="700" width="1000"  class="d-block w-100" src="images/chicago.jpg" alt="Second slide">
+	      <img height="689" width="1000"  class="d-block w-100" src="images/chicago.jpg" alt="Second slide">
+			<div class="carousel-caption d-none d-md-block">
+				<h5>Chicago</h5>
+				<p>The place I went in freshman year, a huge city</p>
+			</div>
 	    </div>
 	    <div class="carousel-item">
-	      <img height="700" width="1000"  class="d-block w-100" src="images/miami-florida-luxury-destination-2017-144863422.jpg" alt="Third slide">
+	      <img height="689" width="1000"  class="d-block w-100" src="images/miami-florida-luxury-destination-2017-144863422.jpg" alt="Third slide">
+			<div class="carousel-caption d-none d-md-block">
+				<h5>Miami</h5>
+				<p>The beach at there is super good</p>
+			</div>
 	    </div>
 	    <div class="carousel-item">
-	    	<img height="700" width="1000"  class="d-block w-100" src="images/Chongqing_004.jpg" alt="Fourth slide">
+	    	<img height="689" width="1000"  class="d-block w-100" src="images/Chongqing_004.jpg" alt="Fourth slide">
+			<div class="carousel-caption d-none d-md-block">
+				<h5>Chongqing</h5>
+				<p>I really like the hotpot at there.</p>
+			</div>
 	    </div>
 	  </div>
 	  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
