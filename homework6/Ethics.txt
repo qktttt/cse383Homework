@@ -44,8 +44,8 @@ Ethics
 
 Joe Bazeley presentation:
 	Lightbeam:
-	Ghostery:
 
+	Ghostery:
 
 	Exif metadata:
 
@@ -53,6 +53,135 @@ Joe Bazeley presentation:
 	Leak of social security numbers:
 
 Search engines:
+	At least 1.8 billion websites
+	At least 130 trillion web pages
+
+	Web crawling: A spider visits a set of websites according to a defined policy
+
+	Indexing: An index of websites that contain specific words and other token is maintained
+
+	SearchinL A list of websites that contain specific search terms is generated
+	And the websites must be ranked.
+
+	 organic (decided by algorithm)and paid(decided by algorithm but interferred with paid fee to get better rank) ranking, 
+
+	Page rank: Developed by Larry Page and Sergey Brin, and sstill be used by Google
+	A webpage is important if it is pointed to by other important page.
+
+	SEO: search Engine Optimization, white hat, Black hat, panalty from Search provider apply to excessive case of search optimizing.
+
+Data privacy:
+	Protection of personal data when using the Internet
+	Personally identifiable information (PII) Sensitive personal information(SPI)
+	Name, SSN, Passport number, date, time, place of birth, etc.
+
+	Anoynymous information: search keyword, IP address, and time related to them. each single one can't be linked directly but it can be analyzed.
+
+	Data you want to keep private
+		Contact information (name, phone, e-mail, address)
+		Private/family information (marital status, spouse’s name, parents’ names, age, information about children, etc.)
+		Location information.  In principle this is private by default, but do you trust that it really is?
+		Healthcare records information
+		Criminal records
+		Financial information
+		Purchase information
+		Web surfing and other communication logs
+
+		People might want you information: Advertiser, Intelligence agencies, Black hat hackers, people who know me, Others, employers, insurance companies, bank, etc.
+
+	Online Tracking and Behavioral Profileing
+	OBA: Online Behaviral advertising
+	Online tracking： cons: mass serveillance, price discrimination, content personlaization, slow webpage loading
+					pros: Storing customization preferences, Can help fight online fraud
+					Less sophisticated users might not be able to find relevant content without some help.
+					Web analytics help site owners optimize their ad campaigns
+					Can stop certain kinds of attacks against websites
+
+
+Pet cloneing:
+	Is it ethical to clone pets when there are so many animals available in shelters?
+	
+	Is there an ethical difference between cloning a pet versus cloning an animal for other purposes?
+	Research
+	Saving endangered species
+	
+	Cloning is expensive and has a low success rate.
+	
+	Is pet cloning generalizable? What about utility?
+	
+	Even though clones are genetically identical (or almost), they can have a different phenotype (the way that genes are expressed in traits).
+
+Behaviral Biometrics:
+
+	The manner you interact with technology (e.g. pressure, angle, typing patterns, etc.).  More subtle than “physical” biometrics.
+	
+	Does this make it more secure?
+	
+	Changes in your behavioral biometrics, e.g. a hand tremor, can be used to provide alerts:
+	
+	To you, to indicate a possible medical issue
+	
+	To your health insurer to possibly raise your rates because of a new condition
+	
+	Can reduce the need for PINs or passwords and help catch fraud or identity theft.
+	Department of Defense is working to replace access cards with behavioral biometrics.
+
+
+DIY Neurohacking:
+	
+	Zap your brain with electric or magnetic pulses to improve cognitive function or motor skills.
+	
+	Spend a few hundred dollars or build it yourself.
+	
+	How is this different from high-tech equipment currently used for training or recovery?
+	
+	Liability issues:  Who is responsible if something goes wrong?
+	Some devices are FDA approved, but are intended to be used under a physician’s care.
+	
+	Is it ethical for e-sports athletes to do this?
+	Fails the generalizability test.
+
+
+Autonomous Translation:
+
+	Provides “good enough” translation when the situation is non-critical.
+	
+	Humans can pick up on body language, tone, and slang that may confuse a computer.
+	
+	Some languages have grammatical structures that make real-time translation difficult.
+	
+	Difficulty in picking out language in a noisy environment
+	
+	Google translate originally used English as an intermediary language.  Now uses deep learning.
+	
+	Can we trust computer translation when the stakes are high?
+	E.g. diplomacy, military, foreign relations, large business deals
+	Who is accountable for mis-translations?
+
+
+Datafication of Children:
+	
+	Between the ages of 11 and 16, children make an average of 26 posts per day.  70,000 by adulthood.
+	
+	Parents share information about their children even before they are born.  They do this without getting consent.
+	
+	But can a legal minor actually give consent?
+	
+	Can consent be requested in an understandable way?
+	
+	Smart toys and other IoT devices gather information about children.
+	
+	Only about 1/5 of Facebook friends are people you actually know in real life.
+	Do you trust them with all this information about your children?
+
+Insect Allies:
+
+	Genetically modified bugs are infected with a virus they can pass onto a plant.
+	Positives:  Can replace chemical sprays and make changes within a single generation.
+	Negatives:  With the wrong virus this could be used as a bioweapon, potentially wiping out much of the world’s food supply.
+	Recall the romaine lettuce E. coli. scare of late 2018.  All supplies of lettuce was destroyed even though only a fraction had an issue.
+	Would the potential of using this as a weapon open up a new bio-agent arms race?
+	How confident are we in the ability to control this in the wild?
 
 
 
